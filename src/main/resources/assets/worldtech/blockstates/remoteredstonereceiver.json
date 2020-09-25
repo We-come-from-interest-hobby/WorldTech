@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "lit=true":  { "model": "worldtech:block/remoteredstonereceiver_on" },
-        "lit=false":  { "model": "worldtech:block/remoteredstonereceiver_off" }
-    }
-}
