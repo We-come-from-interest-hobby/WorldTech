@@ -1,0 +1,16 @@
+{
+  "itemGroup.worldtech.main" : "寰宇科技",
+  "item.worldtech.oneplus6": "ONEPLUS A6003",
+  "item.worldtech.electronic_elytra": "电动鞘翅",
+  "item.worldtech.electronic_bow": "电动弓",
+  "item.worldtech.magic_ingot": "魔矿锭",
+  "item.worldtech.oneplus6.d": "Snapdragon 845",
+  "item.worldtech.electronic_bow.mode": "自动点燃：[开启]",
+  "block.worldtech.remoteredstonereceiver": "远程红石接收器",
+  "block.worldtech.magic_block": "魔矿块",
+  "op6gui.title": "aarch64 2020/09/12",
+  "op6gui.button.redstone": "万物互联",
+  "op6gui.button.chaishi": "差事清单",
+  "op6gui.button.bank": "银行"
+
+}

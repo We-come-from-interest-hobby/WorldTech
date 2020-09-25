@@ -1,0 +1,33 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "比宇宙更远的地方"
+        },
+        "description": {
+            "text": "南极！"
+        },
+        "icon": {
+            "item": "minecraft:snowball"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "ax": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "minecraft:snowy_tundra",
+                "dimension": "overworld"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "ax"
+        ]
+    ],
+    "parent": "adventurex:root"
+}
